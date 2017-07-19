@@ -1,0 +1,30 @@
+/* Variables
+********************/
+$white : #ffffff;
+$lgray : #f4f4f4;
+$gray  : #848484;
+$orange: #f1aa00;
+$txt   : #1f1f1f;
+$u     : 4px;
+$lh    : 1.1875;
+/**/
+
+/* Utility
+********************/
+.u-mt8{
+	margin-top: 8px;
+}
+/**/
+
+/* Common
+********************/
+body{
+	-webkit-text-size-adjust: 100%;
+	-moz-text-size-adjust: 100%;
+	-ms-text-size-adjust: 100%;
+}
+div{
+	border: 1px solid red;
+	padding-top: calc($u*2);
+}
+

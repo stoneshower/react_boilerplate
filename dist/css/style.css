@@ -1,0 +1,26 @@
+/* Variables
+********************/
+/**/
+
+/* Utility
+********************/
+.u-mt8{
+	margin-top: 8px;
+}
+/**/
+
+/* Common
+********************/
+body{
+	-webkit-text-size-adjust: 100%;
+	-moz-text-size-adjust: 100%;
+	-ms-text-size-adjust: 100%;
+}
+div{
+	border: 1px solid red;
+	padding-top: 8px;
+}
+
+
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInN0eWxlLmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtxQkFDcUI7QUFRckIsSUFBSTs7QUFFSjtxQkFDcUI7QUFDckI7Q0FDQyxnQkFBZ0I7Q0FDaEI7QUFDRCxJQUFJOztBQUVKO3FCQUNxQjtBQUNyQjtDQUNDLCtCQUErQjtDQUMvQiw0QkFBNEI7Q0FDNUIsMkJBQTJCO0NBQzNCO0FBQ0Q7Q0FDQyxzQkFBc0I7Q0FDdEIsaUJBQXdCO0NBQ3hCIiwiZmlsZSI6InN0eWxlLmNzcyIsInNvdXJjZXNDb250ZW50IjpbIi8qIFZhcmlhYmxlc1xuKioqKioqKioqKioqKioqKioqKiovXG4kd2hpdGUgOiAjZmZmZmZmO1xuJGxncmF5IDogI2Y0ZjRmNDtcbiRncmF5ICA6ICM4NDg0ODQ7XG4kb3JhbmdlOiAjZjFhYTAwO1xuJHR4dCAgIDogIzFmMWYxZjtcbiR1ICAgICA6IDRweDtcbiRsaCAgICA6IDEuMTg3NTtcbi8qKi9cblxuLyogVXRpbGl0eVxuKioqKioqKioqKioqKioqKioqKiovXG4udS1tdDh7XG5cdG1hcmdpbi10b3A6IDhweDtcbn1cbi8qKi9cblxuLyogQ29tbW9uXG4qKioqKioqKioqKioqKioqKioqKi9cbmJvZHl7XG5cdC13ZWJraXQtdGV4dC1zaXplLWFkanVzdDogMTAwJTtcblx0LW1vei10ZXh0LXNpemUtYWRqdXN0OiAxMDAlO1xuXHQtbXMtdGV4dC1zaXplLWFkanVzdDogMTAwJTtcbn1cbmRpdntcblx0Ym9yZGVyOiAxcHggc29saWQgcmVkO1xuXHRwYWRkaW5nLXRvcDogY2FsYygkdSoyKTtcbn1cblxuIl19 */
+/*# sourceMappingURL=style.css.map*/
